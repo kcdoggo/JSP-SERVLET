@@ -1,0 +1,60 @@
+@charset "EUC-KR";
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
+
+#btn{
+	background-color:black;
+	color:white;
+	border-radius: 4px;
+	font-weight: 2px;
+	
+	
+
+}
+
+body{
+	text-align:center;
+	height:850px;
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+	
+}
+
+input{
+	border-width: 3px;
+	
+}
+
+form{
+	padding-top:100px;
+	display:flex;
+	height:28px;
+	align-item:center;
+	justify-content:center;
+
+
+	}
+.content{
+	display:flex;
+	height:600px;
+	width:500px;
+	justify-content:center;
+	align-self: center;
+	text-align:center;
+
+	
+}
+.header{
+	background-color:black;
+	height:70px;
+	width: 500px;
+	margin-bottom: 8px;
+	text-align:center;
+}
+
+.header h3{
+	color:white;
+	font-size: 25px;
+	padding-top:17px;
+	
+}
